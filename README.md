@@ -25,4 +25,12 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-
+### References
+1) https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0 
+2) https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0 
+3) https://www.tutorialspoint.com/gensim/gensim_creating_lda_topic_model.htm#:~:text=Role%20of%20LDA&text=Every%20topic%20is%20modeled%20as,from%20a%20mixture%20of%20topics. 
+4) https://radimrehurek.com/gensim/models/ldamodel.html 
+5) https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation 
+6) https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/ 
+7) https://towardsdatascience.com/lda-topic-modeling-an-explanation-e184c90aadcd 
+8) https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2 
